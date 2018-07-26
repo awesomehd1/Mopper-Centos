@@ -1,0 +1,1 @@
+echo "Mopper installing Fast mode!" && wget https://github.com/Sushipool/miner/releases/download/V0.3.2/sushipool-linux-x64-0.3.2-standard.tar.gz && echo "GOT IT! EXTRACTING!" && tar xvzf sushipool-linux-x64-0.3.2-standard.tar.gz && echo "ALRIGHT! GO NOW!" && cd sushipool-linux-x64-0.3.2-standard && echo "Thanks for having this installer! use ./sushipool"
